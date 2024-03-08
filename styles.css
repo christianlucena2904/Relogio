@@ -1,0 +1,11 @@
+:root{
+    --color-dark: #0000;
+    --color-white: #fff;
+    --color-light: #ababab;
+    --colo-purple: #0b56217d;
+    
+}
+
+*{
+    background-color: #0000;
+}
